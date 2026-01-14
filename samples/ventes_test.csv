@@ -1,0 +1,5 @@
+Date;Produit;Quantite;Prix_Unitaire;Montant;Client;Canal
+2025-01-03;Produit A;2;15.0;30.0;Client 1;Web
+2025-01-04;Produit B;1;40.0;40.0;Client 2;Magasin
+2025-01-06;Produit A;3;15.0;45.0;Client 3;Web
+2025-01-10;Produit C;5;8.0;40.0;Client 1;Magasin
